@@ -1,4 +1,4 @@
-var $tickerWrapper = $(".tickerwrapper");
+ $tickerWrapper = $(".tickerwrapper");
 var $list = $tickerWrapper.find("ul.list");
 var $clonedList = $list.clone();
 var listWidth = 10;
